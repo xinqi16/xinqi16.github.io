@@ -12,8 +12,12 @@ I am **Qi Xin (辛起)**, a Ph.D. candidate in Computational Mathematics at
 where I work on scientific computing and numerical analysis. I received my
 B.Sc. in Mathematics and Applied Mathematics from Nanjing Normal University in 2023.
 
-My research focuses on the design and analysis of efficient numerical methods
-for partial differential equations arising in fluid dynamics.
+My research centers on numerical simulation for microfluidics. I design and
+analyze efficient numerical methods for the partial differential equations that
+govern flow in micro-scale domains — including high-order finite element
+discretizations for fluid-structure and fluid-rigid-body interaction, and fast,
+robust solvers and preconditioners (e.g., for the Stokes equation in tight
+domains) that make large-scale simulations practical.
 
 Research Interests
 ======
