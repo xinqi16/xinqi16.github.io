@@ -14,7 +14,7 @@ B.Sc. in Mathematics and Applied Mathematics from Nanjing Normal University in 2
 
 My research centers on numerical simulation for microfluidics. I design and
 analyze efficient numerical methods for the partial differential equations that
-govern flow in micro-scale domains — including high-order finite element
+govern flow in micro-scale domains — including high-order
 discretizations for fluid-structure and fluid-rigid-body interaction, and fast,
 robust solvers and preconditioners (e.g., for the Stokes equation in tight
 domains) that make large-scale simulations practical.
