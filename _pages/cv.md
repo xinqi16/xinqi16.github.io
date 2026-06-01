@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computational Mathematics, The Chinese University of Hong Kong, Shenzhen, 2023 – 2027 (expected)
-* B.Sc. in Mathematics and Applied Mathematics, Nanjing Normal University, 2019 – 2023 (GPA 3.7+/5.0)
+* B.Sc. in Mathematics and Applied Mathematics, Nanjing Normal University, 2019 – 2023
 
 Research Interests
 ======
