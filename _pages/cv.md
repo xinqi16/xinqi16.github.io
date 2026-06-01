@@ -38,7 +38,7 @@ Skills
 ======
 * Programming: Python, MATLAB, LaTeX
 * Scientific computing: FEniCS / FEniCSx, Gmsh, pctools, pfibs
-* Methods: finite element discretizations, high-order and ALE schemes, operator preconditioning, iterative and block solvers
+* Methods: finite element methods, ALE / moving-mesh methods, operator preconditioning, iterative and block solvers
 
 Teaching
 ======
