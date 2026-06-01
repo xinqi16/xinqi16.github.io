@@ -36,10 +36,9 @@ Publications
 
 Skills
 ======
-* Programming: Python, Matlab, LaTeX
-* Numerical simulation: FEniCS, FEniCSx, Gmsh, pctools, pfibs
-* AI tools: AI-assisted coding, technical writing, and document generation
-* Misc.: academic research, teaching, LaTeX typesetting
+* Programming: Python, MATLAB, LaTeX
+* Scientific computing: FEniCS / FEniCSx, Gmsh, pctools, pfibs
+* Methods: finite element discretizations, high-order and ALE schemes, operator preconditioning, iterative and block solvers
 
 Teaching
 ======
@@ -47,12 +46,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+<!-- Internship 暂时隐藏（学术主页里先不展示）；想恢复就删掉本段首尾的注释符号
 Internship
 ======
 * Jul – Aug 2024: Research Intern, Shenzhen Raymind Biotechnology Co., Ltd.
   * Assisted in numerical simulation and model development
   * Implemented and validated the isoparametric finite element method
   * Developed high-order temporal discretization schemes for fluid-structure interaction problems
+-->
 
 Awards and Achievements
 ======
