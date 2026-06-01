@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computational Mathematics, The Chinese University of Hong Kong, Shenzhen, 2023 – 2027 (expected)
+* B.Sc. in Mathematics and Applied Mathematics, Nanjing Normal University, 2019 – 2023 (GPA 3.7+/5.0)
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Scientific computing, numerical simulation
+* Finite element methods, high-order discretizations
+* Preconditioning, fast iterative solvers
+* Stokes equations, fluid-structure interaction
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Contributions
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Designed high-order discretization schemes for fluid-structure interaction problems
+* Developed a fast solver for fluid-rigid body interaction problems
+* Analyzed the inf-sup condition and convergence of iterative solvers for the Stokes equation in tight domains
+* Proposed robust preconditioners for the Stokes equation in tight domains
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+* Programming: Python, Matlab, LaTeX
+* Numerical simulation: FEniCS, FEniCSx, Gmsh, pctools, pfibs
+* AI tools: AI-assisted coding, technical writing, and document generation
+* Misc.: academic research, teaching, LaTeX typesetting
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Internship
 ======
-* Currently signed in to 43 different slack teams
+* Jul – Aug 2024: Research Intern, Shenzhen Raymind Biotechnology Co., Ltd.
+  * Assisted in numerical simulation and model development
+  * Implemented and validated the isoparametric finite element method
+  * Developed high-order temporal discretization schemes for fluid-structure interaction problems
+
+Awards and Achievements
+======
+* 2024: Outstanding Student Chair, National Outstanding Graduate Students Workshop, CUHK-Shenzhen
+* 2020 – 2021: First Prize, 12th & 13th National College Mathematics Competition (Jiangsu Province)

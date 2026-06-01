@@ -11,23 +11,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
+  # 如果以后要加这些栏目，取消注释即可（对应内容放进 _talks/、_portfolio/、_posts/）：
+  # - title: "Talks"
+  #   url: /talks/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
