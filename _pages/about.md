@@ -28,7 +28,8 @@ Research Interests
 
 News
 ======
-- **2026**: Three preprints on fluid-structure interaction and the Stokes equation are now available on [arXiv](https://arxiv.org).
+- **November 2026**: New preprint: [A Geometry-Robust Nečas-Type Inequality for Stokes Preconditioning](https://arxiv.org/abs/2611.11442).
+- **2026**: Five preprints on fluid-structure interaction and the Stokes equation are now available; see [Publications](/publications/).
 - **2024**: Research intern at Shenzhen Raymind Biotechnology, working on numerical simulation and high-order temporal discretization for FSI.
 
 Contact
